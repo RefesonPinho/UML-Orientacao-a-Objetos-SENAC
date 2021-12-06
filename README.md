@@ -1,1 +1,1 @@
-# UML-Orientacao-a-Objetos-SENAC
+Nesse diretório contem os projetos de UML da matéria de Análise orientada a objetos sendo ministrada pela professora Cláudia Werlich. Eu e meu amigo Kanamy Stewart desenvolvemos uma ideia de projeto de um sistema que comtempla academias,profissionais da saúde e e usuários desse ambiente com o intituito de todos Eles poderem fazer uso desse sistema buscando maior acessibilidade para o relacionamento de todos.
